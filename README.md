@@ -129,7 +129,7 @@ python FizzWallhaven2.1.py
 
 ## Quick start
 
-1. Launch `FizzWallhaven2.1.py`.
+1. Launch `FizzWallhaven2.1.exe`.
 2. Enter your Wallhaven API key.
 3. Select a folder for downloaded wallpapers.
 4. Enter an optional keyword.
