@@ -1,0 +1,19 @@
+# 用户本地配置，包含 Wallhaven API Key
+config.txt
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# 环境和临时文件
+.env
+venv/
+.venv/
