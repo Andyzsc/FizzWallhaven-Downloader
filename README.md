@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README_CN.md)
 <div align="center">
 
 <img src="assets/FizzWallhaven.png" width="150" alt="FizzWallhaven Logo">
