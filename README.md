@@ -215,7 +215,7 @@ python -m pip install -r requirements.txt
 ## Roadmap
 
 - [ ] Modularize the current single-file source code
-- [ ] Publish a packaged Windows executable
+- [x] Publish a packaged Windows executable
 - [ ] Add more detailed download statistics
 - [ ] Improve preview caching and memory management
 - [ ] Create a mobile-friendly FizzWallhaven Web App
