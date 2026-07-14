@@ -224,7 +224,7 @@ python -m pip install -r requirements.txt
 ## 后续计划
 
 - [ ] 将当前单文件代码拆分为多个模块
-- [ ] 发布可直接运行的 Windows EXE 版本
+- [x] 发布可直接运行的 Windows EXE 版本
 - [ ] 增加更详细的下载统计信息
 - [ ] 继续优化缩略图缓存和内存管理
 - [ ] 开发适合手机浏览的 FizzWallhaven Web App
