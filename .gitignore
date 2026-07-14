@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local configuration containing the user's Wallhaven API key
+config.txt
+
+# PyCharm
+.idea/
+
+# Packaging output
+build/
+dist/
+*.spec
