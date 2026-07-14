@@ -140,7 +140,7 @@ python FizzWallhaven2.1.py
 
 ## 快速使用
 
-1. 启动 `FizzWallhaven2.1.py`。
+1. 启动 `FizzWallhaven2.1.exe`。
 2. 输入个人 Wallhaven API Key。
 3. 选择壁纸保存文件夹。
 4. 根据需要输入搜索关键词。
